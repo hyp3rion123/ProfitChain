@@ -6,6 +6,6 @@ The architectural diagram of the project can be found in the repo files. Current
 
 - [X] Configure and secure a private Ethereum Node
 - [X] Extract transaction logs into GCP
-- [] Process the logs into a usable state
-- [] Configure API and host on a live web server
-- [] Automate daily collection of new transactions
+- [ ] Process the logs into a usable state
+- [ ] Configure API and host on a live web server
+- [ ] Automate daily collection of new transactions
